@@ -1,7 +1,7 @@
 @import 'simplelightbox/dist/simple-lightbox.min.css';
 
 body:has(.gallery) {
-  background-color: rgb(211, 232, 180);
+  background-color: rgb(235, 193, 222);
 }
 
 .gallery {

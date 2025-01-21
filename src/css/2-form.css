@@ -1,5 +1,5 @@
 body:has(.feedback-form) {
-  background-color: rgb(211, 232, 180);
+  background-color: #e2bdda;
 }
 
 .feedback-form {
@@ -83,7 +83,7 @@ body:has(.feedback-form) {
   width: 95px;
   height: 40px;
 
-  background-color: #4e75ff;
+  background-color: #9588cf;
   transition: background-color 250ms ease-in-out;
 
   font-weight: 500;
@@ -95,5 +95,5 @@ body:has(.feedback-form) {
 
 .feedback-form button:hover,
 .feedback-form button:focus {
-  background-color: #6c8cff;
+  background-color: #8992e4;
 }
